@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#noButton {
+    background-color: red;
+    color: white;
+}
+
+#yesButton {
+    background-color: green;
+    color: white;
+}
+
+#message h2 {
+    font-size: 24px;
+    color: #ff1493;
+}
